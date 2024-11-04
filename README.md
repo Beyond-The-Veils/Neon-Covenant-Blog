@@ -1,4 +1,4 @@
-# Neon-Covenant-Blog
+#Static-Site
 ---
 
 ### 1. **README.md**
